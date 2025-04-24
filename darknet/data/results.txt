@@ -1,0 +1,3 @@
+
+ seen 64, trained: 128 K-images (2 Kilo-batches_64) 
+Enter Image Path: 
